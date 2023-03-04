@@ -5,10 +5,16 @@
     <loc>https://podul.cn/</loc>
     <lastmod>2023-03-04T16:57:55+08:00</lastmod>
   </url><url>
+    <loc>https://podul.cn/categories/</loc>
+    <lastmod>2023-03-04T16:57:55+08:00</lastmod>
+  </url><url>
     <loc>https://podul.cn/tags/command/</loc>
     <lastmod>2023-03-04T16:57:55+08:00</lastmod>
   </url><url>
     <loc>https://podul.cn/post/</loc>
+    <lastmod>2023-03-04T16:57:55+08:00</lastmod>
+  </url><url>
+    <loc>https://podul.cn/categories/scripts/</loc>
     <lastmod>2023-03-04T16:57:55+08:00</lastmod>
   </url><url>
     <loc>https://podul.cn/tags/shell/</loc>
@@ -20,19 +26,13 @@
     <loc>https://podul.cn/tags/</loc>
     <lastmod>2023-03-04T16:57:55+08:00</lastmod>
   </url><url>
-    <loc>https://podul.cn/post/%E9%99%90%E5%88%B6%E8%BF%9C%E7%A8%8B%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90/</loc>
+    <loc>https://podul.cn/post/restricting-the-permissions-of-remote-users/</loc>
     <lastmod>2023-03-04T16:57:55+08:00</lastmod>
   </url><url>
     <loc>https://podul.cn/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://podul.cn/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://podul.cn/contact/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://podul.cn/categories/</loc>
+    <loc>https://podul.cn/aigc/</loc>
   </url><url>
     <loc>https://podul.cn/tags/index/</loc>
   </url><url>

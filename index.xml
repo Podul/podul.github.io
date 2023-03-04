@@ -10,40 +10,20 @@
     <lastBuildDate>Sat, 04 Mar 2023 16:57:55 +0800</lastBuildDate><atom:link href="https://podul.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>限制远程用户的权限</title>
-      <link>https://podul.cn/post/%E9%99%90%E5%88%B6%E8%BF%9C%E7%A8%8B%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90/</link>
+      <link>https://podul.cn/post/restricting-the-permissions-of-remote-users/</link>
       <pubDate>Sat, 04 Mar 2023 16:57:55 +0800</pubDate>
       
-      <guid>https://podul.cn/post/%E9%99%90%E5%88%B6%E8%BF%9C%E7%A8%8B%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90/</guid>
+      <guid>https://podul.cn/post/restricting-the-permissions-of-remote-users/</guid>
       <description>在日常工作中有一些敏感的数据需要在服务器上进行处理和存储，但是不希望远程用户能够访问和操作这些数据以外的内容。可以使用 ssh 的 command 选项来限制远程用</description>
     </item>
     
     <item>
       <title></title>
       <link>https://podul.cn/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://podul.cn/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://podul.cn/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://podul.cn/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://podul.cn/contact/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://podul.cn/contact/</guid>
-      <description> github.com/nanxiaobei lee.so </description>
     </item>
     
   </channel>
