@@ -5,7 +5,6 @@
     <link>https://podul.cn/aigc/</link>
     <description>Recent content in AIGC on Podul</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <copyright>Copyright © 2022-2023, Podul all rights reserved.</copyright><atom:link href="https://podul.cn/aigc/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://podul.cn/aigc/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
