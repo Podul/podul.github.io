@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIGC on Podul</title>
-    <link>https://podul.cn/aigc/</link>
+    <link>https://podul.cn/categories/aigc/</link>
     <description>Recent content in AIGC on Podul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 05 Mar 2023 02:17:54 +0800</lastBuildDate><atom:link href="https://podul.cn/aigc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 02:17:54 +0800</lastBuildDate><atom:link href="https://podul.cn/categories/aigc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>个体意义的消失</title>
       <link>https://podul.cn/aigc/the-disappearance-of-individual-significance/</link>
